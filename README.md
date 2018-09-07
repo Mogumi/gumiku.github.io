@@ -1,5 +1,5 @@
 # mogumi.github.io 
-## <font color=blue size=12>关于mogumi</font>
+<h2> <font color=blue size=12>关于mogumi</font><h2>
 <p>最早搭建博客应该是在腾讯云的1元学生主机上面，使用的是wordpress框架，不过忙活完之后就结束了。
 毕业之后嫌云主机个人用有点贵，然后听说了使用gayhub搭建静态博客的方法。
 寻思反正自己也压根用不到数据库，于是就搭了个hexo.</p>
